@@ -90,9 +90,9 @@ POST http://localhost:5000/api
 Content-Type: application/json
 
 {
-	'name': 'Flint Lockwood',
-	'track': 'Backend',
-	'age': 30
+	"name": "Flint Lockwood",
+	"track": "Backend",
+	"age": 30
 }
 ```
 
@@ -109,9 +109,9 @@ PUT http://localhost:5000/api/1
 Content-Type: application/json
 
 {
-	'name': 'Baelin',
-	'track': 'Product Design',
-	'age': 32
+	"name": "Baelin",
+	"track": "Product Design",
+	"age": 32
 
 }
 ```
@@ -124,4 +124,4 @@ DELETE http://localhost:5000/api/1
 
 ## API Documentation
 
-For detailed API documentation, please refer to the [API Documentation](DOCUMENTATION.md) file.
+For detailed API documentation, please refer to the [API Documentation](DOCUMENTATION.md).
